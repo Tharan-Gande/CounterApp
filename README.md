@@ -1,2 +1,2 @@
-#CounterApp   <br>
+CounterApp   <br>
 Author:Gande Bhanu Tharan
